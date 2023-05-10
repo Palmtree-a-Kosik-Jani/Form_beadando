@@ -1,0 +1,11 @@
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\bin\Debug\beadando_form.exe.config
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\bin\Debug\beadando_form.exe
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\bin\Debug\beadando_form.pdb
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.csproj.AssemblyReference.cache
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.Form1.resources
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.Properties.Resources.resources
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.csproj.GenerateResource.cache
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.csproj.CoreCompileInputs.cache
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.exe
+C:\Users\Janiii\Desktop\Suliii\form\beadando_form\beadando_form\obj\Debug\beadando_form.pdb
